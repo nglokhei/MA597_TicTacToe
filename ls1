@@ -1,0 +1,46 @@
+Documentation/ 
+
+ReadMe.txt
+
+boardClass.py
+stores the variables and functions related to the game board.
+
+computerInput.py
+runs the algorithm of the computer AI.
+
+convert.py
+converts the pole number to the pole coordinate and between player number and his name.
+
+demo.py
+demonstrates the visualisation the proof of theorem 1.
+
+draw.py
+does the drawings in the game.
+
+gameClass.py
+stores the variables and functions for the game.
+
+ls1
+describes the functions of the files in the folder.
+
+numberOfGames.py
+counts the number of the possible games.
+
+numberOfGamesClear.py
+a copy of numberOfGames.py but without showing the date time.
+
+playerInput.py
+does the player’s input.
+
+runGame.py
+runs different modes of the game by uncommenting the codes.
+
+runMe.py
+runs different modes of the game.
+
+threeDimTicTacToe.py
+has the function of running the 3D Tic Tac Toe game.
+
+twoDimTicTacToe.py
+has the function of running the 2D Tic Tac Toe game.
+
